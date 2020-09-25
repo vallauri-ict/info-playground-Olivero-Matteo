@@ -1,0 +1,15 @@
+1) SELECT Nome FROM Sale WHERE Citta = 'Pisa'
+2) SELECT Titolo FROM Film WHERE Regista = 'F. Fellini' AND AnnoProduzione > 1960
+3) SELECT Titolo, Durata FROM Film WHERE Genere = 'Fantascienza' AND AnnoProduzione > 1960 AND (Nazionalita = 'Francese' OR Nazionalita = 'Giapponese')
+4) SELECT Titolo FROM Film WHERE (Genere = 'Fantascienza' AND Nazionalita = 'Giapponese' AND AnnoProduzione > 1960) OR Nazionalita = 'Francese'
+5) SELECT Titolo FROM Film WHERE Regista = (SELECT Regista FROM Film WHERE Titolo = 'Casablanca')
+6) SELECT Titolo, Genere FROM Film f, Proiezioni p WHERE p.CodFilm = f.CodFilm AND p.DataProiezione = '25/12/2004'
+7) SELECT Titolo, Genere FROM Film f, Proiezioni p, Sale s WHERE p.CodFilm = f.CodFilm AND p.DataProiezione = '25/12/2004' AND p.CodSala = s.CodSala AND s.Citta = 'Napoli'
+8) SELECT s.Nome FROM Film f, Proiezioni p, Sale s, Recita r, Attori a WHERE p.CodFilm = f.CodFilm AND p.CodSala = s.CodSala AND r.CodFilm = f.CodFilm AND r.CodAttore =a.CodAttore AND p.DataProiezione = '25/12/2004' AND s.Citta = 'Napoli' AND a.Nome = 'R.Williams';
+9) SELECT Titolo FROM Film f,Recita r,Attori a WHERE f.CodFilm=r.CodFilm AND r.CodAttore=a.CodAttore AND (a.Nome='M.Mastroianno' OR a.Nome='S.Loren') ;
+10) SELECT Titolo FROM Film f,Recita r,Attori a WHERE f.CodFilm=r.CodFilm AND r.CodAttore=a.CodAttore AND a.Nome='M.Mastroianno' AND a.Nome='S.Loren');
+11) SELECT Titolo,a.Nome FROM Film f,Recita r,Attori a WHERE f.CodFilm=r.CodFilm AND r.CodAttore=a.CodAttore AND a.Nazionalita='Francese';
+12) SELECT Titolo,s.Nome FROM Film f,Sale s,Proiezioni p WHERE p.CodFilm=f.CodFilm AND p.CodSala=s.CodSala AND s.Citta='Pisa' AND p.DataProiezione BETWEEN CONVERT(date,'2005-1-1') AND CONVERT(date,'2005-1-31');
+13) SELECT Nome FROM Sale WHERE Posti>60 AND Citta='Pisa';
+14) SELECT SUM(Posti) FROM Sale WHERE Citta='Pisa';
+15) SELECT DISTINCT Citta, SUM(Posti) FROM Sale GROUP BY Citta;

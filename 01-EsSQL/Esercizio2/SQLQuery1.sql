@@ -1,1 +1,0 @@
-﻿SELECT DISTINCT Citta, SUM(Posti) FROM Sale GROUP BY Citta;

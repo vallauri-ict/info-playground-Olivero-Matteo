@@ -1,0 +1,19 @@
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\bin\Debug\esercizioTriggerCorrezione.exe.config
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\bin\Debug\esercizioTriggerCorrezione.exe
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\bin\Debug\esercizioTriggerCorrezione.pdb
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.csprojAssemblyReference.cache
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.FormMain.resources
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.Properties.Resources.resources
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.csproj.GenerateResource.cache
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.exe
+C:\Users\emanu\OneDrive\5B INF\INFORMATICA\SQL\esercizioTriggerCorrezioneSolution\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.pdb
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\bin\Debug\esercizioTriggerCorrezione.exe.config
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.exe
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.pdb
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\bin\Debug\esercizioTriggerCorrezione.exe
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\bin\Debug\esercizioTriggerCorrezione.pdb
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.FormMain.resources
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.Properties.Resources.resources
+C:\Users\Utente\Desktop\esercizioTrigger\esercizioTriggerCorrezione\obj\Debug\esercizioTriggerCorrezione.csproj.GenerateResource.Cache
